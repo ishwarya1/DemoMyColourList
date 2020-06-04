@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo My Colour List</string>
+    <string name="addItem">Add New Colour</string>
+
+    <string name="Position">Enter Position</string>
+
+    <string name="Update">Update A Colour</string>
+
+    <string name="remove">Remove A Colour</string>
+</resources>
